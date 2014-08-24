@@ -10,7 +10,7 @@ import android.view.View.OnClickListener;
 import android.view.Window;
 import android.widget.Button;
 import android.widget.ImageView;
-
+// 20140824
 /**登陆界面activity*/
 public class LoginActivity extends Activity implements OnClickListener{
 	/**更多登陆项的显示View*/
